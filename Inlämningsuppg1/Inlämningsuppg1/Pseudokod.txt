@@ -1,0 +1,7 @@
+Programet börjar först och främst med att slumpa fram ett tal mellan 1-100.
+Programet frågar sedan användaren att mata in ett tal.
+Programet kommer fortsätta att fråga efter tal sålänge användaren inte gissar rätt.
+Om talet användaren skrev är större än det som slumpades så ska progrmet skriva ut "Du gissade för lågt!Gissa högre. 
+Eller om talet användaren skrev är mindre än det som slumpades så ska progrmet skriva ut "Du gissade för högt!Gissa lägre. 
+Om talet är det nummer som slumpades av programet så kommer programet skriva ut "Du gissade rätt!".
+Programet skriver även ut hur många försök det tog för användaren att gissa talet. 
